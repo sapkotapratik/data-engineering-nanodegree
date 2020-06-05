@@ -1,13 +1,13 @@
 # data-engineering-nanodegree
-Journey towards learning data engineering.
-Assignments,Projects and Resources on becoming a Data Engineer.
+--> Journey towards learning data engineering.
+--> Assignments,Projects and Resources on becoming a Data Engineer.
 
 <b>Objective:</b>
 
-Build production-ready data infrastructure, an essential skill for advancing your data career.
-Learn strategies to deal with big volume of data.
-Automating intensive queries.
-Understanding Architecture of a robust data platform.
+--> Build production-ready data infrastructure, an essential skill for advancing your data career.
+--> Learn strategies to deal with big volume of data.
+--> Automating intensive queries.
+--> Understanding Architecture of a robust data platform.
 
 <b> Technology Stack </b>
 - Python
