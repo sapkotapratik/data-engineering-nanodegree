@@ -5,3 +5,13 @@ display(
 
 // COMMAND ----------
 
+dbutils.fs.head("/mnt/datalake/TaxiZones.csv")
+
+// COMMAND ----------
+
+display(
+  dbutils.fs.ls("/mnt/storage")
+)
+
+// COMMAND ----------
+
