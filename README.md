@@ -25,4 +25,10 @@
 - Data Pipelines
 
 
+<b> Some important interviews Questions </b>
 
+1. Difference between Parquet and ORC  Ans.https://www.youtube.com/watch?v=q8uqpwxaVZw
+2. What is slow changing dimension?  Ans. https://www.youtube.com/watch?v=XqdZF0DJpUs
+3. Discussion on ELT vs ETL   Ans. https://www.youtube.com/watch?v=IqXqe7ZbcM8
+4. Datawarehouse vs Data Lake Ans.https://www.youtube.com/watch?v=E49BFhThC3U
+5. About Change data capture Ans. https://www.youtube.com/watch?v=ppB_GLbfFHo
