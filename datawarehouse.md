@@ -141,3 +141,25 @@ A dimension is a Business entity and have it's own attributes and this table is 
 
 
 **Star SChema vs Snow Flake Schema**
+
+![image](https://user-images.githubusercontent.com/24469318/205491340-9cceb365-f79d-49d6-8acb-69ae53791399.png)
+
+** Star **
+![image](https://user-images.githubusercontent.com/24469318/205491354-f7cb705f-5483-4f09-a4dc-cda37e171bc8.png)
+
+** SnowFlake **
+
+![image](https://user-images.githubusercontent.com/24469318/205491546-88d93cc1-293d-4a59-81ad-7f99c8c8b7c9.png)
+
+** Types of Dimensions **
+
+Confirmed Dimension
+Role-playing Dimension
+Junk Dimension
+Degenerate Dimension
+Slowly Changing Dimension
+Surrogate Key
+Granularity
+Cardinality 
+
+
