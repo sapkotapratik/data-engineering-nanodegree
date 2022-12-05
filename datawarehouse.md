@@ -187,16 +187,16 @@ Like 10K products and brands is 3-4 only the keeps on repeating so inorder to av
 
 
 
-• Multinational manufacturing company
-• Territory
-	- 3 Group 6 Region 10 Territory
-• Product
-	- 4 Category 30+ Sub Category 500+ Products
-• Customers
+- Multinational manufacturing company
+- Territory
+	-- 3 Group 6 Region 10 Territory
+- Product
+	-- 4 Category 30+ Sub Category 500+ Products
+- Customers
 	- 15k+
-• Department
-	- Purchase and Production
-	- Human Resource
-	- Sales
+- Department
+	-- Purchase and Production
+	-- Human Resource
+	-- Sales
 
 
