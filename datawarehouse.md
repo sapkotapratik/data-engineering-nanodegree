@@ -147,19 +147,56 @@ A dimension is a Business entity and have it's own attributes and this table is 
 **Star**
 ![image](https://user-images.githubusercontent.com/24469318/205491354-f7cb705f-5483-4f09-a4dc-cda37e171bc8.png)
 
+
+![image](https://user-images.githubusercontent.com/24469318/205620085-d8645904-9740-4748-a45d-e5fd628af66a.png)
+
+For examples: 
+**100 product * 1000 customers * 3 promotions * 10 locations * 1080 dates**
+
+These possible of combinations are pre-aggregated and can be stored in cube format.
+
+Inorder for cube work properly you need to have proper Star-Schema.
+
 **SnowFlake**
+
+Fact table is indirectly connected to a dimension table.
+
+For eg. DIM brand is connected through is DIM Product.
+There are some design requirements where you have brand description is more on DIM_Brand and have lot of products on DIM_Products.
+
+Like 10K products and brands is 3-4 only the keeps on repeating so inorder to avoid such a thing we can go for Snowflake schema.
 
 ![image](https://user-images.githubusercontent.com/24469318/205491546-88d93cc1-293d-4a59-81ad-7f99c8c8b7c9.png)
 
 **Types of Dimensions**
 
-Confirmed Dimension
-Role-playing Dimension
-Junk Dimension
-Degenerate Dimension
-Slowly Changing Dimension
-Surrogate Key
-Granularity
-Cardinality 
+	- Confirmed Dimension
+	- Role-playing Dimension
+	- Junk Dimension
+	- Degenerate Dimension
+	- Slowly Changing Dimension
++ Surrogate Key
++ Granularity ( Least level you need to maintain data transaction on )
++ Cardinality (eg. 100 product * 1000 customers * 3 promotions * 10 locations * 1080 dates)
+
+
+** Business Scenario : Adventure Works **
+
+
+![image](https://user-images.githubusercontent.com/24469318/205622742-a248e609-deff-4d50-8c4c-d25199135a75.png)
+
+
+
+• Multinational manufacturing company
+• Territory
+	- 3 Group 6 Region 10 Territory
+• Product
+	- 4 Category 30+ Sub Category 500+ Products
+• Customers
+	- 15k+
+• Department
+	- Purchase and Production
+	- Human Resource
+	- Sales
 
 
