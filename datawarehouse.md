@@ -187,7 +187,7 @@ Like 10K products and brands is 3-4 only the keeps on repeating so inorder to av
 
 
 
-- Multinational manufacturing company
+-** Multinational manufacturing company**
 - Territory
 	-- 3 Group 6 Region 10 Territory
 - Product
@@ -199,4 +199,17 @@ Like 10K products and brands is 3-4 only the keeps on repeating so inorder to av
 	-- Human Resource
 	-- Sales
 
+# **Data warehouse**
+**Designing**
 
+Prerequisite:
+Understand Business Process / Know the Source System
+
+![image](https://user-images.githubusercontent.com/24469318/205623720-07b7c15d-418c-4c9c-a86e-2f7e18624416.png)
+
+Designing | Identify Facts and Dimensions
+
+1. Identify Subject Area
+2. Identify Facts
+3. Identify Dimensions I Types
+4. Set the Granularity
